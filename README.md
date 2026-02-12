@@ -1,5 +1,6 @@
 # Mermaid
-``` mermaid
-   flowchart LR
 
+```mermaid
+flowchart TB
+    A --> B
 ```
