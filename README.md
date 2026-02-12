@@ -1,1 +1,5 @@
 # Mermaid
+``` mermaid
+   flowchart LR
+
+```
