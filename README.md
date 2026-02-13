@@ -1,8 +1,3 @@
 # Mermaid
 
-```mermaid
-flowchart TB
-    A --> B
-    B --> C
-    C --> A
-```
+Here I will try to make some flowcharts using Mermaid
